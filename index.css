@@ -1,0 +1,36 @@
+#indexnavbar {
+    font-size: 2rem;
+    font-weight: 100;
+    color: #bdbae6;
+
+}
+
+#indexnavbar .navbar-brand {
+    font-size: 2rem;
+    font-weight: 100;
+    color: #bdbae6;
+
+}
+
+#indexnavbar a{
+    color: #bdbae6;
+}
+
+body{
+    font-family: 'Sriracha', cursive, sans-serif;
+    background-image: url(backg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color: #bdbae6;
+
+
+}
+
+#indexdiv{
+    margin-top: 150px;
+}
+
+.bb button a{
+    color: #bdbae6;
+}
